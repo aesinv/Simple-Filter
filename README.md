@@ -1,6 +1,5 @@
 # Simple Filter
-Dependency-free. 1.09kb gzipped, 2.76kb uncompressed.
----
+_Dependency-free. 1.09kb gzipped, 2.76kb uncompressed._
 
 A simple script for basic front-end filtering based on keywords. Just pop in the script, toss some data attributes onto your filterable items/filters then go have a beer.
 
@@ -124,6 +123,7 @@ Out of the box the script does not contain any styling. I don't want to force my
 Feel free to open tickets for any issues you encounter, as well as submit some PRs. This is kind of a quickie at the moment, but I will eventually get a local build together to make updating/working on improving this. In the mean time, the easiest way to make changes quickly is via the Codepen demo linked above.
 
 ## Author
+
 Matt Bengston
-**Email:** dorifutomatt@gmail.com / matt.bengston@icfolson.com
-**Twitter:** [@deedilus](https://twitter.com/deedilus)
+- **Email:** dorifutomatt@gmail.com / matt.bengston@icfolson.com
+- **Twitter:** [@deedilus](https://twitter.com/deedilus)
